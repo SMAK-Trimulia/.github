@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# SMAK Trimulia 
+This is the official github orginization of SMAK Trimulia. Find the website [here](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trimulia.sch.id/smak&ved=2ahUKEwjd4obd6NeFAxUvzTgGHQztC0kQFnoECBUQAQ&usg=AOvVaw3zQPuld7mg1mkKrfr4CLdJ)
